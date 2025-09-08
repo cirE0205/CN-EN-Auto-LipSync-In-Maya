@@ -1,0 +1,33 @@
+# MFA large files and models
+MFA_3.2.3/
+montreal-forced-aligner/
+kalpy/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Maya files
+*.ma
+*.mb
+
+# Audio files
+*.wav
+*.mp3
+
+# Test outputs
+test_alignment_output/
+
+# Site packages
+site-packages/
+
+# Large sample directories
+Sample_Pose_CN/
+Sample_Pose_CN - Copy/
+Sample_Audio_Text_Pose/
+
+# Keep only essential samples
+!Sample_Audio/EN_2_prompt.wav
+!Sample_Audio/Zh_7_prompt.wav
+!Sample_Text/EN_2_prompt.txt
+!Sample_Text/Zh_7_prompt.txt 
