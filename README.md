@@ -285,8 +285,15 @@ MFA 软件：3.2.3 ✅
 
 原作 " https://github.com/joaen/maya-auto-lip-sync "
 
-https://github.com/user-attachments/assets/45503cf4-28d0-4e19-a07f-318d37be69a1
-https://github.com/user-attachments/assets/4933039e-7329-42b4-846d-392483cb7fd9
+
+https://github.com/user-attachments/assets/3f17a723-e10c-47c1-bfe7-c973476b3395
+
+
+
+
+https://github.com/user-attachments/assets/65450c7e-2c2c-41b0-8484-88d73a5aec6c
+
+
 
 ## 安装：
 1. 将 ***auto_lip_sync*** 文件夹或 ***auto_lip_sync.py*** 添加到您的 Maya 脚本文件夹中（用户名\Documents\maya\*版本*\scripts）。
